@@ -1,5 +1,6 @@
 <h2 style="line-height: 20.0063px;">Resources</h2>
 
+updated on Feb 26 2017
 <ul style="font-size: 13.008px; line-height: 20.0063px;">
 	<li>Printing:
 		<ul>
